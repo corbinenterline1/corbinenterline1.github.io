@@ -63,7 +63,8 @@
     },
     "gdpr": false,
     "uniqCompNum": 26,
-    "versionPublish": "5.5.2"
+    "versionPublish": "5.5.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
